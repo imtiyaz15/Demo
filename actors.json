@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Catherine Missal",
+    "rating": 4875,
+    "image_path": "/g3fsRgEoMxaqPayIMtGDWERqJ6A.jpg",
+    "alternative_name": null,
+    "objectID": "551486300"
+  },
+  {
+    "name": "Monica Bellucci",
+    "rating": 3956,
+    "image_path": "/z3sLuRKP7hQVrvSTsqdLjGSldwG.jpg",
+    "alternative_name": "Monica Anna Maria Bellucci",
+    "objectID": "551486310"
+  },
+  {
+    "name": "Michael Doven",
+    "rating": 2647,
+    "image_path": "/fkHxoBAvAkqHxzoP1ukcbPnaaUi.jpg",
+    "alternative_name": null,
+    "objectID": "551486320"
+  },
+  {
+    "name": "Jasmine Reate",
+    "rating": 2378,
+    "image_path": "/qgI4agu15xBlnWkZEVpZhGFsV4Y.jpg",
+    "alternative_name": "J.L. Reate",
+    "objectID": "551486330"
+  },
+  {
+    "name": "Tom Cruise",
+    "rating": 2237,
+    "image_path": "/3oWEuo0e8Nx8JvkqYCDec2iMY6K.jpg",
+    "alternative_name": null,
+    "objectID": "551486340"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "rating": 2128,
+    "image_path": "/f3c1rwcOoeU0v6Ak5loUvMyifR0.jpg",
+    "alternative_name": "Scarlett Johanssen",
+    "objectID": "551486350"
+  },
+  {
+    "name": "Anna Raadsveld",
+    "rating": 1972,
+    "image_path": "/hNeOrwFVEfjUgRsjSUNU6t1gt2N.jpg",
+    "alternative_name": null,
+    "objectID": "551486360"
+  },
+  {
+    "name": "Jason Statham",
+    "rating": 1719,
+    "image_path": "/PhWiWgasncGWD9LdbsGcmxkV4r.jpg",
+    "alternative_name": null,
+    "objectID": "551486370"
+  },
+  {
+    "name": "Emilia Clarke",
+    "rating": 1585,
+    "image_path": "/xMIjXRUkxpQs2o5VI3Om3yn6hNV.jpg",
+    "alternative_name": null,
+    "objectID": "551486380"
+  },
+  {
+    "name": "Wentworth Miller",
+    "rating": 1579,
+    "image_path": "/z5qjqYgWfZsBrLWWm9jMRSJOtQ2.jpg",
+    "alternative_name": null,
+    "objectID": "551486390"
+  },
+  {
+    "name": "Dwayne Johnson",
+    "rating": 1568,
+    "image_path": "/akweMz59qsSoPUJYe7QpjAc2rQp.jpg",
+    "alternative_name": "The Rock",
+    "objectID": "551486400"
+  }
+ ]
